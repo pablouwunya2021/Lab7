@@ -1,0 +1,13 @@
+house, casa
+dog, perro
+homework, tarea
+woman, mujer
+town, pueblo
+yes, si
+the, la
+asked, preguntó
+me, me
+to, a
+do, hacer
+about, sobre
+my, mi
